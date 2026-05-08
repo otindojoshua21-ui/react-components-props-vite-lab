@@ -1,8 +1,6 @@
-import logo from "../assets/logo";
-
 const blogData = {
   name: "Underreacted",
-  image: logo,
+  image: "https://placehold.co/150",
   about: "A blog about learning React",
   posts: [
     {
@@ -22,6 +20,7 @@ const blogData = {
     {
       id: 3,
       title: "Function vs Class Components",
+      date: "December 10, 2020",
       preview: "React, meet OOJS.",
       minutes: 47,
     },
