@@ -9,16 +9,14 @@ header {
   background-color: #2563eb;
   color: white;
   padding: 20px;
-  margin-bottom: 20px;
 }
 
 aside {
   display: flex;
-  align-items: center;
   gap: 20px;
-  background-color: #eff6ff;
   padding: 20px;
-  margin-bottom: 20px;
+  background: #eff6ff;
+  margin: 20px 0;
   border-radius: 8px;
 }
 
@@ -29,22 +27,8 @@ aside img {
 }
 
 article {
-  background: white;
   border: 1px solid #ddd;
   padding: 20px;
   margin-bottom: 15px;
   border-radius: 8px;
-}
-
-article h3 {
-  margin: 0 0 5px 0;
-}
-
-article small {
-  color: #2563eb;
-}
-
-article p {
-  color: #555;
-  margin-top: 8px;
 }
